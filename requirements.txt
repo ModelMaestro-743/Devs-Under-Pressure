@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+shap
+streamlit
+matplotlib
+joblib
+ctransformers
+fpdf
